@@ -394,7 +394,7 @@ PROCEDURE tasar (
       lsadigicapli              NUMBER                         := 0;
       lsadigic                  NUMBER                         := 0;
       lsadigiciva               NUMBER                         := 0;
-      lrecogidaremota           NUMBER                         := 0;
+      lrecogidaremota           NUMBER                         := 0; 
       lplazarecogidaremota      del.keydel%TYPE;
       gkilosdoc                 NUMBER                         := 0;
       gvoldoc                   NUMBER                         := 0;
